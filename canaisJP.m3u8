@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="",Cartoon Network (Japan) HD
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="",Disney Channel (Japan)
+http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",JOJG-DTV (1080p)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="",MTV (Japan)
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan (1080p)
+https://cdn.pishow.tv/ott/live/455/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan (576p)
+https://fta.ektv.in/live/417/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan (576p)
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan (720p)
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="",NHK World-Japan HD (720p)
+http://170.83.16.50/NHK_WORLD/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="",QVC (1080p),QVC (Japan) (1080p)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg" group-title="",Sakuranbo TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg" group-title="",YTS Yamagata TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.net
