@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="",Arirang,Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang (720p)
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang (720p)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang Radio (720p)
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang Radio (720p)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang Radio (720p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang Radio (720p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arirangtv.png" group-title="",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang TV (720p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang TV (720p)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang TV HD
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Arirang TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=111&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",CJ OnStyle Plus (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS 1 (400p)
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS 2 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS KIDS (400p)
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS+ 1 (400p)
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS+ 2 (400p)
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",FGTV (720p)
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",GCN24 Korean (480p) [Not 24/7]
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Gongyoung Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Hyundai Home Shopping Plus (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",KBS World (720p)
+https://stream8.cinerama.uz/1448/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",MBC Daegu (대구 MBC) (480p) [Not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",TV Chosun (720p)
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",TV Chosun 2 (720p)
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8?checkedby:iptvcat.net
